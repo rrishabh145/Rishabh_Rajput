@@ -1,4 +1,4 @@
-# Image Cation generator & narrator
+# Image Caption generator & narrator
 ## ToGIV(Tool to Give every Image a Voice)
 
 Install dependencies
