@@ -1,4 +1,4 @@
-# Rishabh_Rajput
+# Image Cation generator & narrator
 ## ToGIV(Tool to Give every Image a Voice)
 
 Install dependencies
